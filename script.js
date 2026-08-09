@@ -14,7 +14,6 @@ function show(){
     let show1 = document.getElementById("show-here1");
     show.innerHTML = "This button is working in progress so it's useless to click it." ;
     count()
-    //show.innerHTML += "<br> You have clicked the button " + counter + " times.";
     if(counter > 5){
         show1.innerHTML = "<br> You have clicked the button more than 5 times!";
     }
