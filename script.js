@@ -27,6 +27,6 @@ function show(){
         show.innerHTML += "<br> Ok";
     }
     if(counter > 109){ 
-        window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank");
+        window.open("https://notamoniac.github.io/about-me/videos/nggyu.mp4", "_blank");
     }
 }
